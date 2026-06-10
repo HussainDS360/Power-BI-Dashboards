@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard built to analyze the 2024 data job market, including salaries, job demand, remote opportunities, and skill requirements.
 
-![Dashboard Page 1](/images/Project1_Page1.png)
+![Dashboard Overview](/images/Project1_Page1.png)
 
 ---
 
