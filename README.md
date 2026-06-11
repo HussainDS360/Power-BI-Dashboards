@@ -49,7 +49,7 @@ Using a real-world dataset of 2024 data job postings, this project transforms ra
 
 ### 🌍 Page 1: High-Level Market View
 
-![Dashboard Page 2](images/Project1_Page1.png)
+![Dashboard Page 1](images/Project1_Page1.png)
 
 This page provides a broad overview of the data job market and allows users to quickly understand current hiring trends.
 
